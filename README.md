@@ -6,7 +6,7 @@ Hey there! I'm Pawan, a passionate MERN stack developer with an intermediate lev
 
 ## My Skills
 
-- **Front-end Development**: I have hands-on experience in developing dynamic and responsive user interfaces using React.js. I'm proficient in HTML, CSS, and JavaScript, and I'm always eager to stay up-to-date with the latest front-end frameworks and libraries.
+- **Front-end Development**: I have hands-on experience in developing dynamic and responsive user interfaces using React.js. I'm proficient in HTML, Tailwind CSS, and JavaScript ES6, and I'm always eager to stay up-to-date with the latest front-end frameworks and libraries.
 
 - **Back-end Development**: With Node.js and Express.js, I have built robust and scalable server-side applications, RESTful APIs, and integrated databases using MongoDB. I'm also familiar with authentication and authorization.
 
