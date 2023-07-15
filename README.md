@@ -22,7 +22,7 @@ Here are a few noteworthy projects I've worked on:
 
 
 ## Milestones
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eb6640b1-4d62-472a-aba4-8ae3434fbf5d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[AWS Badge](https://www.credly.com/badges/eb6640b1-4d62-472a-aba4-8ae3434fbf5d/public_url).
 
 Feel free to explore my repositories for more projects and code samples!
 
