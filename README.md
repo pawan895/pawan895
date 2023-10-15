@@ -5,7 +5,7 @@
 Hey there! I'm Pawan, a passionate MERN stack developer with an intermediate level of expertise. I have a strong background in building web applications using modern technologies and tools. Currently, I'm expanding my skillset by diving into the exciting worlds of data science and AWS.
 
 ## My Skills
-[![AWS Foundational Course](aws-certified-cloud-practitioner.png)]([https://link-to-verification-page](https://www.credly.com/badges/eb6640b1-4d62-472a-aba4-8ae3434fbf5d/public_url))
+
 
 
 - **Front-end Development**: I have hands-on experience in developing dynamic and responsive user interfaces using React.js. I'm proficient in HTML, Tailwind CSS, and JavaScript ES6, and I'm always eager to stay up-to-date with the latest front-end frameworks and libraries.
