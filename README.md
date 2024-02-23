@@ -1,4 +1,6 @@
-# Hi, wanna see something cool ? scroll down.
+# Hi, welcome to the warehouse of my cretivity.
+
+## wanna see something cool ? scroll to bottom !
 
 ## About Me
 
