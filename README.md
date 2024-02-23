@@ -1,7 +1,6 @@
-# Hi, welcome to the warehouse of my cretivity.
-
+# Hi, welcome to the warehouse of my creativity.
 ## wanna see something cool ? scroll to bottom !
-
+### Fun fact: I've kept some projects Private ! 
 ## About Me
 
 Hey there! I'm Pawan, a passionate MERN stack developer with an intermediate level of expertise. I have a strong background in building web applications using modern technologies and tools. Currently, I'm expanding my skillset by diving into the exciting worlds of data science and AWS.
