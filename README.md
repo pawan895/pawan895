@@ -54,12 +54,6 @@ Actively expanding expertise in cloud computing with Amazon Web Services (AWS). 
 - Pandas
 - Scikit-learn
 
-## My Projects 🛠️ <a name="my-projects-"></a>
-
-Here are a few noteworthy projects I've worked on:
-- [Deepfake Detection](https://github.com/pawan895/deepfake-detection)
-- [ECom Webstite (Full Stack)](https://github.com/pawan895/eCom-Website)
-- [HoneyToken Using AWS](https://github.com/pawan895/HoneyTokens-Internet-Security-analysis)
 
 Feel free to explore my repositories for more projects and code samples! 🔍
 
